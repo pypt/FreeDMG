@@ -1,0 +1,277 @@
+/* Quit confirmation string */
+"Quit_Confirmation" = "FreeDMG создает образ. Вы действительно хотите выйти?";
+
+/* Quit warning string */
+"Quit_Warning" = "Выход из программы приведет к созданию неполного образа.";
+
+/* mkdmg warning string */
+"mkdmg_Warning" = "mkdmg не найден.  Переустановите FreeDMG.";
+
+/* hdiutil warning string */
+"hdiutil_Warning" = "hdiutil не найден.  Переустановите Mac OS X.";
+
+/* task warning string */
+"Task_Warning" = "Ошибка возникла при размещении задачи или конвейера.";
+
+/* error warning string */
+"Error_Warning" = "Ошибка - подробности в логе.";
+
+/* internal warning string */
+"Internal_Warning" = "Внутренняя ошибка - подробности в логе.";
+
+/* OK button string */
+"OK" = "OK";
+
+/* Cancel button string*/
+"Cancel" = "Отмена";
+
+/* Imaging string */
+"Imaging" = "Создаю образ...";
+
+/* Error string */
+"Error" = "Ошибка";
+
+/* Finished string*/
+"Finished" = "Закончено";
+
+/* Create Volume string */
+"Create_Volume" = "Создать из раздела";
+
+/* Create Device string */
+"Create_Device" = "Создать из устройства";
+
+/* New image read/write string*/
+"New_Read_Write" = "образ диска для чтения/записи";
+
+/* New image sparse string*/
+"New_Sparse" = "растущий образ";
+
+/* New image sparse string*/
+"New_Sparsebundle" = "растущий пакет-образ";
+
+/* AES-128 string */
+"AES-128" = "128-битное AES";
+
+/* AES-128 string */
+"AES-256" = "256-битное AES";
+
+/* AES None string */
+"AES_None" = "без шифрования";
+
+/* SaveÅs window title */
+"SaveAs" = "Сохранить как";
+
+/* InternetEnabled window title */
+"InternetEnabled" = "подготовить для интернета";
+
+/* SourceFolder window title */
+"SourceFolder" = "Выбрать папку-источник";
+
+/* ScanRestore window title */
+"ScanRestore" = "Сканировать для восстановления";
+
+/* GetInfo window title */
+"GetInfo" = "Получить информацию";
+
+/* Compact window title */
+"Compact" = "Сжать образ";
+
+/* Verify window title */
+"Verify" = "Проверить образ";
+
+/* Checksum window title */
+"Checksum" = "Проверить контрольную сумму образа";
+
+/* Password window title */
+"Password" = "Изменить пароль";
+
+/* Burn window title */
+"Burn" = "Записать образ";
+
+/* Segment window title */
+"Segment" = "Разбить образ на сегменты";
+
+/* Segment_save window title */
+"Segment_Save" = "Сохранить сегменты:";
+
+/* Segment_location window title */
+"Segment_Location" = "Выбрать расположение, имя и размер для создаваемых сегментов.";
+
+/* Flatten window title */
+"Flatten" = "Flatten Image";
+
+/* Resize window title */
+"Resize" = "Изменить размер образа";
+
+/* Create window title */
+"Create" = "Создать образ из файлов";
+
+/* UDRW  string */
+"UDRW" = "UDRW - UDIF образ для чтения/записи";
+
+/* UDRO  string */
+"UDRO" = "UDRO - UDIF образ только для чтения";
+
+/* UDZO  string */
+"UDZO" = "UDZO - UDIF zlib-сжатый образ";
+
+/* UDCO  string */
+"UDCO" = "UDCO - UDIF ADC-сжатый образ";
+
+/* UDBZ  string */
+"UDBZ" = "UDBZ - UDIF bzip2-сжатый (10.4+)";
+
+/* UDTO  string */
+"UDTO" = "UDTO - мастер DVD/CD-R для экспорта";
+
+/* UFBI  string */
+"UFBI" = "UFBI - UDIF полный диск с контрольной суммой MD5";
+
+/* UDxx  string */
+"UDxx" = "UDxx - UDIF stub image";
+
+/* UDSP  string */
+"UDSP" = "UDSP - растущий образ";
+
+/* UDSB  string */
+"UDSB" = "UDSB - растущий пакет-образ";
+
+/* RdWr  string */
+"RdWr" = "RdWr - NDIF для чтения/записи (устаревший формат)";
+
+/* Rdxx  string */
+"Rdxx" = "Rdxx - NDIF только для чтения (формат Disk Copy 6.3.3)";
+
+/* RDCo  string */
+"ROCo" = "ROCo - NDIF сжатый (устаревший формат)";
+
+/* DC42 string */
+"DC42" = "DC42 - образ Disk Copy 4.2";
+
+/* Convert UDRW convert string */
+"Convert_UDRW" = "для чтения/записи";
+
+/* Convert UDRO convert string */
+"Convert_UDRO" = "только для чтения";
+
+/* Convert UDZO convert string */
+"Convert_UDZO" = "сжатый (zlib)";
+
+/* Convert UDBZ convert string */
+"Convert_UDBZ" = "сжатый (bzip2)";
+
+/* Convert UDTO convert string */
+"Convert_UDTO" = "мастер DVD/CD-R";
+
+/* Convert UDSP convert string */
+"Convert_UDSP" = "растущий образ";
+
+/* Convert UDSB convert string */
+"Convert_UDSB" = "растущий пакет-образ";
+
+/* Convert RdWr convert string */
+"Convert_RdWr" = "для чтения/записи (Mac OS 9)";
+
+/* Convert Rdxx convert string */
+"Convert_Rdxx" = "только для чтения (Mac OS 9)";
+
+/* Convert RDCo convert string */
+"Convert_ROCo" = "сжатый (Mac OS 9)";
+
+/* Bottom Log view edge */
+"Bottom" = "Снизу";
+
+/* Left Log view edge */
+"Left" = "Слева";
+
+/* Top Log view edge */
+"Top" = "Сверху";
+
+/* Right Log view edge */
+"Right" = "Справа";
+
+/* New Image Toolbar Item */
+"Toolbar_New" = "Создать";
+
+/* New Toolbar Tip */
+"Toolbar_New_Tip" = "Создать образ диска";
+
+/* Verify Toolbar Item */
+"Toolbar_Verify" = "Проверить";
+
+/* Verify Toolbar Tip */
+"Toolbar_Verify_Tip" = "Проверить образ диска";
+
+/* Resize Toolbar Item */
+"Toolbar_Resize" = "Изменить размер";
+
+/* Resize Toolbar Tip */
+"Toolbar_Resize_Tip" = "Изменить размер образа диска";
+
+/* Internet Enable Toolbar Item */
+"Toolbar_Internet_Enable" = "Для интернета";
+
+/* Internet Enable Toolbar Tip */
+"Toolbar_Internet_Enable_Tip" = "Подготовить образ диска для интернета";
+
+/* Convert Toolbar Item */
+"Toolbar_Convert" = "Конвертировать";
+
+/* Convert Toolbar Tip */
+"Toolbar_Convert_Tip" = "Конвертировать образ диска";
+
+/* Mount Toolbar Item */
+"Toolbar_Mount" = "Смонтировать";
+
+/* Mount Toolbar Tip */
+"Toolbar_Mount_Tip" = "Смонтировать образ диска";
+
+/* Get Info Toolbar Item */
+"Toolbar_Get_Info" = "Получить информацию";
+
+/* Get Info Toolbar Tip */
+"Toolbar_Get_Info_Tip" = "Получить информацию";
+
+/* Eject Toolbar Item */
+"Toolbar_Eject" = "Извлечь образ";
+
+/* Eject Toolbar Tip */
+"Toolbar_Eject_Tip" = "Извлечь образ диска";
+
+/* Show/Hide Log Toolbar Item */
+"Toolbar_Log" = "Показать/скрыть лог";
+
+/* Show/Hide Log Toolbar Tip */
+"Toolbar_Log_Tip" = "Показать/скрыть панель лога";
+
+/* Burn Toolbar Item */
+"Toolbar_Burn" = "Записать образ";
+
+/* Burn Toolbar Tip */
+"Toolbar_Burn_Tip" = "Записать образ диска";
+
+/* SLA Item */
+"Toolbar_SLA" = "Добавить SLA";
+
+/* SLA Toolbar Tip */
+"Toolbar_SLA_Tip" = "Добавить пользовательское соглашение к образу";
+
+/* SLA Error Messages */
+"SLA_Xcode_Error" = "Инструменты разработчика (Xcode) не установлены. Создание SLA не возможно. Чтобы получить доступ к этой функции, установите Xcode tools с установочного диска Mac OS X или с сайта http://developer.apple.com.";
+"SLA_Folder_Error" = "Папка ~/Library/Preferences/FreeDMG/SLAs не найдена. Пожалуйста, перезапустите FreeDMG, чтобы заново создать эту папку.";
+"SLA_ImageExists_Error" = "Выбранный образ не найден. Попробуйте еще раз.";
+"SLA_ImagePath_Error" = "Ошибка: путь к исходным файлам или образу отсутствует. Попробуйте еще раз";
+"SLA_Unflatten_Error" = "Ошибка возникла при unflattening образа диска. Возможно, это не сжатый UDIF образ только для чтения. Используйте операцию \"Конвертировать\", чтобы конвертировать образ в нужный формат.";
+"SLA_CarbonResourceAttach_Error" = "Ошибка возникла при добавлении исходных файлов Carbon к выбранному образу. Подробности смотрите в логе.";
+"SLA_ResourceAttach_Error" = "Ошибка возникла при добавлении доступных исходных файлов к выбранному образу. Подробности смотрите в логе.";
+"SLA_Flatten_Error" = "Ошибка возникла при flattening образа диска. Попробуйте еще раз.";
+"SLA_NoSLAs_Error" = "Нет доступного пользовательского соглашения.";
+"SLA_AddSLAs_Error" = "Используйте окно пользовательского соглашения, чтобы добавить соглашение.";
+"SLA_ResourceCreation_Error" = "Ошибка возникла при создании источников из доступных пользовательских соглашений. Подробности смотрите в логе или Консоли.";
+
+/* SLA Messages */
+"Unflattening_Image" = "Отмена выравнивания образа...";
+"Flattening_Image" = "Выравнивается образ...";
+"SLA_AddingCarbon" = "Добавляются ресурсы Carbon и базового SLA к образу...";
+"SLA_AddingResources" = "Добавляются ресурсы с id: ";
+"SLA_CreatingResources" = "Создаются ресурсы с id: ";

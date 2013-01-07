@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="FreeDMG Terminology">
+	<suite name="FreeDMG Scripting" code="FDGs" description="Commands and classes for FreeDMG Scripting.">
+		
+		<class name="application" code="capp" description="Adding to application delegate.">
+			<cocoa class="NSApplication"/>
+		</class>
+		
+		<command name="open" code="aevtodoc" description="Open a document.">
+			<direct-parameter description="The file(s) to be opened.">
+				<type type="file" list="yes"/>
+			</direct-parameter>
+		</command>
+		
+		<command name="convert" code="fdmgcnvt" description="Convert a disk image.">
+			<direct-parameter description="The image to be converted.">
+				<type type="file" list="yes"/>
+			</direct-parameter>
+		</command>
+			
+	</suite>
+</dictionary>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+        <dict>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>*</string>
+            </array>
+        </dict>
+    </array>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>*</string>
+            </array>
+        </dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>disk</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>disk</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>hdsk</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>hdsk</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>anything</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>****</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>FreeDMG</string>
+	<key>CFBundleIconFile</key>
+	<string>FreeDMG.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.kelleycomputing.FreeDMG</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>FDMG</string>
+	<key>CFBundleVersion</key>
+	<string>0.5.9</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>FreeDMG Help</string>
+	<key>CFBundleHelpBookName</key>
+	<string>FreeDMG Help</string>
+	<key>NSAppleScriptEnabled</key>
+    <string>YES</string>	
+</dict>
+</plist>

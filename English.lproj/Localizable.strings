@@ -1,0 +1,277 @@
+/* Quit confirmation string */
+"Quit_Confirmation" = "FreeDMG is currently imaging. Are you sure that you want to quit?";
+
+/* Quit warning string */
+"Quit_Warning" = "Quitting now can result in an incomplete image";
+
+/* mkdmg warning string */
+"mkdmg_Warning" = "mkdmg not found.  Re-install FreeDMG.";
+
+/* hdiutil warning string */
+"hdiutil_Warning" = "hdiutil not found.  Re-install Mac OS X.";
+
+/* task warning string */
+"Task_Warning" = "An error occurred trying to allocate the task or pipe.";
+
+/* error warning string */
+"Error_Warning" = "An error occurred - see log for more details";
+
+/* internal warning string */
+"Internal_Warning" = "An internal error occurred - see log for more details";
+
+/* OK button string */
+"OK" = "OK";
+
+/* Cancel button string*/
+"Cancel" = "Cancel";
+
+/* Imaging string */
+"Imaging" = "Imaging...";
+
+/* Error string */
+"Error" = "Error";
+
+/* Finished string*/
+"Finished" = "Finished";
+
+/* Create Volume string */
+"Create_Volume" = "Create from Volume";
+
+/* Create Device string */
+"Create_Device" = "Create from Device";
+
+/* New image read/write string*/
+"New_Read_Write" = "read/write disk image";
+
+/* New image sparse string*/
+"New_Sparse" = "sparseimage";
+
+/* New image sparse string*/
+"New_Sparsebundle" = "sparsebundle";
+
+/* AES-128 string */
+"AES-128" = "AES cipher (128 bit)";
+
+/* AES-128 string */
+"AES-256" = "AES cipher (256 bit)";
+
+/* AES None string */
+"AES_None" = "None";
+
+/* SaveÅs window title */
+"SaveAs" = "Save As";
+
+/* InternetEnabled window title */
+"InternetEnabled" = "Make Internet Enabled";
+
+/* SourceFolder window title */
+"SourceFolder" = "Choose source folder";
+
+/* ScanRestore window title */
+"ScanRestore" = "Scan for Restore";
+
+/* GetInfo window title */
+"GetInfo" = "Get Info";
+
+/* Compact window title */
+"Compact" = "Compact Image";
+
+/* Verify window title */
+"Verify" = "Verify Image";
+
+/* Checksum window title */
+"Checksum" = "Checksum Image";
+
+/* Password window title */
+"Password" = "Change Password";
+
+/* Burn window title */
+"Burn" = "Burn Image";
+
+/* Segment window title */
+"Segment" = "Segment Image";
+
+/* Segment_save window title */
+"Segment_Save" = "Save Segments:";
+
+/* Segment_location window title */
+"Segment_Location" = "Select a location, name, and size for the segments created.";
+
+/* Flatten window title */
+"Flatten" = "Flatten Image";
+
+/* Resize window title */
+"Resize" = "Resize Image";
+
+/* Create window title */
+"Create" = "Create Image from Files";
+
+/* UDRW  string */
+"UDRW" = "UDRW - UDIF read/write image";
+
+/* UDRO  string */
+"UDRO" = "UDRO - UDIF read-only image";
+
+/* UDZO  string */
+"UDZO" = "UDZO - UDIF zlib-compressed image";
+
+/* UDCO  string */
+"UDCO" = "UDCO - UDIF ADC-compressed image";
+
+/* UDBZ  string */
+"UDBZ" = "UDBZ - UDIF bzip2-compressed (10.4+)";
+
+/* UDTO  string */
+"UDTO" = "UDTO - DVD/CD-R master for export";
+
+/* UFBI  string */
+"UFBI" = "UFBI - UDIF entire image with MD5 checksum";
+
+/* UDxx  string */
+"UDxx" = "UDxx - UDIF stub image";
+
+/* UDSP  string */
+"UDSP" = "UDSP - SPARSE (growable with content)";
+
+/* UDSB  string */
+"UDSB" = "UDSB - SPARSE bundle (growable with content)";
+
+/* RdWr  string */
+"RdWr" = "RdWr - NDIF read/write (deprecated)";
+
+/* Rdxx  string */
+"Rdxx" = "Rdxx - NDIF read-only (Disk Copy 6.3.3 format)";
+
+/* RDCo  string */
+"ROCo" = "ROCo - NDIF compressed (deprecated)";
+
+/* DC42 string */
+"DC42" = "DC42 - Disk Copy 4.2 image";
+
+/* Convert UDRW convert string */
+"Convert_UDRW" = "Read/Write";
+
+/* Convert UDRO convert string */
+"Convert_UDRO" = "Read-only";
+
+/* Convert UDZO convert string */
+"Convert_UDZO" = "Compressed (zlib)";
+
+/* Convert UDBZ convert string */
+"Convert_UDBZ" = "Compressed (bzip2)";
+
+/* Convert UDTO convert string */
+"Convert_UDTO" = "DVD/CD-R master";
+
+/* Convert UDSP convert string */
+"Convert_UDSP" = "Sparse";
+
+/* Convert UDSB convert string */
+"Convert_UDSB" = "Sparse bundle";
+
+/* Convert RdWr convert string */
+"Convert_RdWr" = "Read/Write (Mac OS 9)";
+
+/* Convert Rdxx convert string */
+"Convert_Rdxx" = "Read-only (Mac OS 9)";
+
+/* Convert RDCo convert string */
+"Convert_ROCo" = "Compressed (Mac OS 9)";
+
+/* Bottom Log view edge */
+"Bottom" = "Bottom";
+
+/* Left Log view edge */
+"Left" = "Left";
+
+/* Top Log view edge */
+"Top" = "Top";
+
+/* Right Log view edge */
+"Right" = "Right";
+
+/* New Image Toolbar Item */
+"Toolbar_New" = "New Image";
+
+/* New Toolbar Tip */
+"Toolbar_New_Tip" = "Create a disk image";
+
+/* Verify Toolbar Item */
+"Toolbar_Verify" = "Verify Image";
+
+/* Verify Toolbar Tip */
+"Toolbar_Verify_Tip" = "Verify a disk image";
+
+/* Resize Toolbar Item */
+"Toolbar_Resize" = "Resize Image";
+
+/* Resize Toolbar Tip */
+"Toolbar_Resize_Tip" = "Resize a disk image";
+
+/* Internet Enable Toolbar Item */
+"Toolbar_Internet_Enable" = "Internet Enable Image";
+
+/* Internet Enable Toolbar Tip */
+"Toolbar_Internet_Enable_Tip" = "Internet Enable a disk image";
+
+/* Convert Toolbar Item */
+"Toolbar_Convert" = "Convert Image";
+
+/* Convert Toolbar Tip */
+"Toolbar_Convert_Tip" = "Convert a disk image";
+
+/* Mount Toolbar Item */
+"Toolbar_Mount" = "Mount Image";
+
+/* Mount Toolbar Tip */
+"Toolbar_Mount_Tip" = "Mount a disk image";
+
+/* Get Info Toolbar Item */
+"Toolbar_Get_Info" = "Get Info";
+
+/* Get Info Toolbar Tip */
+"Toolbar_Get_Info_Tip" = "Get Info";
+
+/* Eject Toolbar Item */
+"Toolbar_Eject" = "Eject Image";
+
+/* Eject Toolbar Tip */
+"Toolbar_Eject_Tip" = "Eject a disk image";
+
+/* Show/Hide Log Toolbar Item */
+"Toolbar_Log" = "Show/Hide Log";
+
+/* Show/Hide Log Toolbar Tip */
+"Toolbar_Log_Tip" = "Show/Hide Log Drawer";
+
+/* Burn Toolbar Item */
+"Toolbar_Burn" = "Burn Image";
+
+/* Burn Toolbar Tip */
+"Toolbar_Burn_Tip" = "Burn a disk image";
+
+/* SLA Item */
+"Toolbar_SLA" = "Add SLA";
+
+/* SLA Toolbar Tip */
+"Toolbar_SLA_Tip" = "Add Software License Agreement to Image";
+
+/* SLA Error Messages */
+"SLA_Xcode_Error" = "Developer tools (Xcode) not installed. SLA creation is not possible. To enable this feature, install Apple's Xcode tools from the Mac OS X Install discs or http://developer.apple.com.";
+"SLA_Folder_Error" = "The folder located at ~/Library/Preferences/FreeDMG/SLAs cannot be found. Please quit and relaunch FreeDMG to re-create this directory";
+"SLA_ImageExists_Error" = "The selected image can't be found. Please try again.";
+"SLA_ImagePath_Error" = "Error: the path to the resources or image is null. Please try again";
+"SLA_Unflatten_Error" = "An error occurred while unflattening the disk image. The image may not be a compressed read-only UDIF image. Use the \"Convert\" operation to convert the image to the correct type.";
+"SLA_CarbonResourceAttach_Error" = "An error occurred while adding Carbon resources to the selected image. Please review the log for more details.";
+"SLA_ResourceAttach_Error" = "An error occurred while adding the enabled resources to the selected image. Please review the log for more details.";
+"SLA_Flatten_Error" = "An error occurred while flattening the disk image. Please try again.";
+"SLA_NoSLAs_Error" = "There are no Software License agreements enabled.";
+"SLA_AddSLAs_Error" = "Please use the Software License Agreements Window to add and enable agreements.";
+"SLA_ResourceCreation_Error" = "An error occurred while creating resources from the enabled software license agreements. Please review the log or Console for more details.";
+
+/* SLA Messages */
+"Unflattening_Image" = "Unflattening image...";
+"Flattening_Image" = "Flattening image...";
+"SLA_AddingCarbon" = "Adding Carbon and basic SLA resources to image...";
+"SLA_AddingResources" = "Adding resources with id: ";
+"SLA_CreatingResources" = "Creating resources with id: ";

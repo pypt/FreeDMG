@@ -1,0 +1,74 @@
+[FreeDMG](http://kelleycomputing.net/freedmg/) is one of the most powerful and easy to use disk imaging program available for Mac OS X. With this software it is possible to quickly perform disk imaging on the fly. Both the program's window, and the dock icon can be used for drag-and-drop imaging. There many image formats that that can be chosen (UDZO, UDCO, etc.). FreeDMG can make internet enabled disk images for distribution to Macs as well as ISO / Joliet hybrid images for cross-platform delivery. Verbose preferences, and a built-in log window help users hide/display additional information about the imaging process.
+
+Gain easy access to the many options available for creating and manipulating disk images in Mac OS X with FreeDMG. From the "resize" function built into `hdiutil` to the adjustable compresion levels available for the UDZO format, this software attempts to unveil it all. Users have the option to overwrite exising files, and can choose to quit the program automatically after creating an image on launch. It is possible to encrypt images (password protect) with the click of a button.
+
+FreeDMG is the easiest and most versatile way to attach HTML / RTF software license agreements to disk images. The license creation process in FreeDMG prevents character loss for all 2-byte languages.
+
+
+Features
+========
+
+* Quickly create disk images in a variety of formats
+* Manipulate disk images (resize, convert, segment, internet enable, encrypt, etc.)
+* Burn disk images
+* Attach software license agreements to disk images
+
+And more...
+
+
+What's New?
+===========
+
+* Removed "Create from Device" option under Images menu (was causing crashing in 10.6)
+* Checks for empty volume / device array before updating menus in `-menuNeedsUpdate` method (was crashing on launch when run on 10.4 / 10.6 machines)
+
+
+Requirements
+============
+
+Operating system:
+
+* Mac OS X v.10.4.x - 10.6.x
+
+Optional requirements:
+
+* Xcode tools must be installed to attach SLAs to images.
+* Xcode v.3.2 required to attach SLAs to images in Snow Leopard.
+* Mac OS X v.10.5.2 or higher is required to use encryption in Leopard (encryption works normally in all versions of 10.4).
+
+
+Usage
+=====
+
+This program is pretty simple to use.
+
+*Step 1:* Drag a file or folder to the FreeDMG window, or to the application's dock icon.
+
+Step 2: When the window or icon shades, drop your file or folder. The disk image will be created in the same folder as the source file/folder.
+
+This software will decompress disk images as well.
+
+
+Localizations
+=============
+
+* English
+* French
+* German
+* Italian
+* Japanese
+* Russian
+
+
+Version history
+===============
+
+All changes to FreeDMG are listed [here](http://kelleycomputing.net/freedmg/changes.html).
+
+
+License
+=======
+
+The developer of this application does not accept any responsibility or liability for this program's behavior, nor any outcome, or any other event that occurs resulting from the use or even misuse of this program.
+
+See `LICENSE`.

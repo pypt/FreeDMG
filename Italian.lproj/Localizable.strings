@@ -1,0 +1,277 @@
+/* Quit confirmation string */
+"Quit_Confirmation" = "FreeDMG sta montando l'immagine. Sicuro di uscire ora?";
+
+/* Quit warning string */
+"Quit_Warning" = "Uscendo ora renderà l'immagine disco incompleta";
+
+/* mkdmg warning string */
+"mkdmg_Warning" = "mkdmg non trovato.  Per cortesia reinstalla FreeDMG.";
+
+/* hdiutil warning string */
+"hdiutil_Warning" = "hdiutil non trovato.  Per cortesia reinstalla Mac OS X.";
+
+/* task warning string */
+"Task_Warning" = "C'è stato un errore nell'allocare il compito o pipe.";
+
+/* error warning string */
+"Error_Warning" = "C'è stato un errore - vedi il registro per più dettagli";
+
+/* internal warning string */
+"Internal_Warning" = "C'è stato un errore interno - vedi il registro per più dettagli";
+
+/* OK button string */
+"OK" = "OK";
+
+/* Cancel button string*/
+"Cancel" = "Annulla";
+
+/* Imaging string */
+"Imaging" = "Monto...";
+
+/* Error string */
+"Error" = "Errore";
+
+/* Finished string*/
+"Finished" = "Rifinito";
+
+/* Create Volume string */
+"Create_Volume" = "Crea dal Volume";
+
+/* Create Device string */
+"Create_Device" = "Crea dal dispositivo";
+
+/* New image read/write string*/
+"New_Read_Write" = "Leggi/scrivi l'immagine disco";
+
+/* New image sparse string*/
+"New_Sparse" = "sparseimage";
+
+/* New image sparse string*/
+"New_Sparsebundle" = "sparsebundle";
+
+/* AES-128 string */
+"AES-128" = "Cifratura AES (128 bit)";
+
+/* AES-128 string */
+"AES-256" = "Cifratura AES (256 bit)";
+
+/* AES None string */
+"AES_None" = "Nessuna";
+
+/* SaveÅs window title */
+"SaveAs" = "Salva come";
+
+/* InternetEnabled window title */
+"InternetEnabled" = "Rendila abilitata per Internet";
+
+/* SourceFolder window title */
+"SourceFolder" = "Scegli una cartella sorgente";
+
+/* ScanRestore window title */
+"ScanRestore" = "Scansiona per il ripristino";
+
+/* GetInfo window title */
+"GetInfo" = "Ottieni informazioni";
+
+/* Compact window title */
+"Compact" = "Comprimi immagine";
+
+/* Verify window title */
+"Verify" = "Verifica immagine";
+
+/* Checksum window title */
+"Checksum" = "Checksum Immagine";
+
+/* Password window title */
+"Password" = "Cambia parola chiave";
+
+/* Burn window title */
+"Burn" = "Masterizza immagine";
+
+/* Segment window title */
+"Segment" = "Segmenta immagine";
+
+/* Segment_save window title */
+"Segment_Save" = "Salva segmenti:";
+
+/* Segment_location window title */
+"Segment_Location" = "Seleziona un luogo, nome, e misura per i segmenti creati.";
+
+/* Flatten window title */
+"Flatten" = "Unisci Immagine";
+
+/* Resize window title */
+"Resize" = "Ridimensiona immagine";
+
+/* Create window title */
+"Create" = "Crea immagine dai documenti";
+
+/* UDRW  string */
+"UDRW" = "Lettura/Scrittura UDRW - UDIF";
+
+/* UDRO  string */
+"UDRO" = "Sola-lettura UDRO - UDIF";
+
+/* UDZO  string */
+"UDZO" = "Compressa zlib UDZO - UDIF";
+
+/* UDCO  string */
+"UDCO" = "Compressa UDCO - UDIF ADC";
+
+/* UDBZ  string */
+"UDBZ" = "Compressa bzip2 UDBZ - UDIF (solo da OSX 10.4+)";
+
+/* UDTO  string */
+"UDTO" = "Master UDTO - DVD/CD-R per esportazione";
+
+/* UFBI  string */
+"UFBI" = "Intera UFBI - UDIF con checksum MD5";
+
+/* UDxx  string */
+"UDxx" = "Stub UDxx - UDIF";
+
+/* UDSP  string */
+"UDSP" = "UDSP - SPARSE (Accrescibile con contenuti)";
+
+/* UDSB  string */
+"UDSB" = "UDSP - SPARSE bundle (Accrescibile con contenuti)";
+
+/* RdWr  string */
+"RdWr" = "Lettura/Scrittura RdWr - NDIF (disapprovata)";
+
+/* Rdxx  string */
+"Rdxx" = "Sola-lettura Rdxx - NDIF (formato Disk Copy 6.3.3)";
+
+/* RDCo  string */
+"ROCo" = "Immagine compressa ROCo - NDIF (disapprovata)";
+
+/* DC42 string */
+"DC42" = "Disk Copy 4.2 DC42";
+
+/* Convert UDRW convert string */
+"Convert_UDRW" = "Lettura/scrittura";
+
+/* Convert UDRO convert string */
+"Convert_UDRO" = "Sola-lettura";
+
+/* Convert UDZO convert string */
+"Convert_UDZO" = "Compressa (zlib)";
+
+/* Convert UDBZ convert string */
+"Convert_UDBZ" = "Compressa (bzip2)";
+
+/* Convert UDTO convert string */
+"Convert_UDTO" = "Master DVD/CD-R";
+
+/* Convert UDSP convert string */
+"Convert_UDSP" = "Sparsa";
+
+/* Convert UDSB convert string */
+"Convert_UDSB" = "Sparse bundle";
+
+/* Convert RdWr convert string */
+"Convert_RdWr" = "Lettura/scrittura (Mac OS 9)";
+
+/* Convert Rdxx convert string */
+"Convert_Rdxx" = "Sola-lettura (Mac OS 9)";
+
+/* Convert RDCo convert string */
+"Convert_ROCo" = "Compressa (Mac OS 9)";
+
+/* Bottom Log view edge */
+"Bottom" = "Sotto";
+
+/* Left Log view edge */
+"Left" = "Sinistra";
+
+/* Top Log view edge */
+"Top" = "Alto";
+
+/* Right Log view edge */
+"Right" = "Destra";
+
+/* New Image Toolbar Item */
+"Toolbar_New" = "Nuova";
+
+/* New Toolbar Tip */
+"Toolbar_New_Tip" = "Crea un'immagine disco";
+
+/* Verify Toolbar Item */
+"Toolbar_Verify" = "Verificala";
+
+/* Verify Toolbar Tip */
+"Toolbar_Verify_Tip" = "Verifica un'immagine disco";
+
+/* Resize Toolbar Item */
+"Toolbar_Resize" = "Ridimensionala";
+
+/* Resize Toolbar Tip */
+"Toolbar_Resize_Tip" = "Ridimensiona un'immagine disco";
+
+/* Internet Enable Toolbar Item */
+"Toolbar_Internet_Enable" = "Abilitala ad internet";
+
+/* Internet Enable Toolbar Tip */
+"Toolbar_Internet_Enable_Tip" = "Abilita l'immagine disco ad internet";
+
+/* Convert Toolbar Item */
+"Toolbar_Convert" = "Convertila";
+
+/* Convert Toolbar Tip */
+"Toolbar_Convert_Tip" = "Converte un'immagine disco";
+
+/* Mount Toolbar Item */
+"Toolbar_Mount" = "Montala";
+
+/* Mount Toolbar Tip */
+"Toolbar_Mount_Tip" = "Monta un immagine disco";
+
+/* Get Info Toolbar Item */
+"Toolbar_Get_Info" = "Info";
+
+/* Get Info Toolbar Tip */
+"Toolbar_Get_Info_Tip" = "Ottiene informazioni";
+
+/* Eject Toolbar Item */
+"Toolbar_Eject" = "Espellila";
+
+/* Eject Toolbar Tip */
+"Toolbar_Eject_Tip" = "Espelle un immagine disco";
+
+/* Show/Hide Log Toolbar Item */
+"Toolbar_Log" = "Resoconto";
+
+/* Show/Hide Log Toolbar Tip */
+"Toolbar_Log_Tip" = "Mostra/Nasconde il pannello del resoconto";
+
+/* Burn Toolbar Item */
+"Toolbar_Burn" = "Masterizzala";
+
+/* Burn Toolbar Tip */
+"Toolbar_Burn_Tip" = "Masterizza un'immagine disco";
+
+/* SLA Item */
+"Toolbar_SLA" = "Aggiungi SLA";
+
+/* SLA Toolbar Tip */
+"Toolbar_SLA_Tip" = "Aggiungi Accordo di Licenza del Software all'immagine disco";
+
+/* SLA Error Messages */
+"SLA_Xcode_Error" = "Developer tools (Xcode) non è installato. La creazione dell'accordo di licenze del software (LSA) non è possibile. Per renderlo, installa Xcode tools di Apple dal DVD di Installazione Mac OS X o scaricalo da http://developer.apple.com.";
+"SLA_Folder_Error" = "La cartella che si trova in ~/Library/Preferences/FreeDMG/SLAs non è stata trovata. Per cortesia esci e riavvia FreeDMG per recreare tale percorso";
+"SLA_ImageExists_Error" = "Non ho trovato l'immagine selezionata. Per cortesia riprova.";
+"SLA_ImagePath_Error" = "Errore: il percorso delle risorse o l'immagine sono nulle. Per cortesia riprova.";
+"SLA_Unflatten_Error" = "C'è stato un errore nel separare l'immagine disco. L'immagine può non essere una di Sola-lettura UDIF compressa. Usa il comando \"Converti\" per correggerne il tipo.";
+"SLA_CarbonResourceAttach_Error" = "C'è stato un errore nell'aggiungere le risorse Carbon all'immagine selezionata. Per cortesia controlla il registro per dettagli.";
+"SLA_ResourceAttach_Error" = "C'è stato un errore nell'aggiungere le risorse abilitate all'immagine selezionata. Per cortesia controlla il registro per dettagli.";
+"SLA_Flatten_Error" = "C'è stato un errore nell'unire l'immagine disco. Per cortesia riprova.";
+"SLA_NoSLAs_Error" = "Non ci sono Accordi di Licenza del Software abilitati.";
+"SLA_AddSLAs_Error" = "Per cortesia usa la Finestra degli Accordi di Licenza del Software per aggiungere ed abilitare gli accordi.";
+"SLA_ResourceCreation_Error" = "C'è stato un errore nel creare le risorse dagli accordi di licenza per il software abilitato. Per cortesia controlla il registro o la console per dettagli.";
+
+/* SLA Messages */
+"Unflattening_Image" = "Separo l'immagine...";
+"Flattening_Image" = "Unisco l'immagine...";
+"SLA_AddingCarbon" = "Aggiungo Carbon e Licenza di Base all'immagine...";
+"SLA_AddingResources" = "Aggiungo le risorse con l'identità: ";
+"SLA_CreatingResources" = "Creo le risorse con l'identità: ";
